@@ -1,3 +1,5 @@
+//primera version de FOB
+
 //calculo de resultado para dlls/lb
 $(document).on('pagebeforeshow', '#resultado-dlls-lb', function(){  
 	//inicializar variables validando campos en blanco
