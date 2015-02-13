@@ -221,7 +221,8 @@ $(document).on('pagebeforeshow', '#resultado-dlls-lb', function(){
 		case "Laredo":
 			switch (selectDestino) {
 				case "1":
-					aduanaDestino = 12243;
+					//aduanaDestino = 12243;
+					aduanaDestino = 13712.16;
 					destino = "Aguascalientes, Ags.";
 					break;
 				case "2":
@@ -229,47 +230,58 @@ $(document).on('pagebeforeshow', '#resultado-dlls-lb', function(){
 					destino = "Edo. de México";
 					break;
 				case "3":
-					aduanaDestino = 17808;
+					//aduanaDestino = 17808;
+					aduanaDestino = 19962.77;
 					destino = "México, D.F.";
 					break;
 				case "4":
-					aduanaDestino = 8904;
+					//aduanaDestino = 8904;
+					aduanaDestino = 9972.48;
 					destino = "El Carmen, N.L.";
 					break;
 				case "5":
-					aduanaDestino = 8190;
+					//aduanaDestino = 8190;
+					aduanaDestino = 8725.92;
 					destino = "Guadalupe, N.L.";
 					break;
 				case "6":
-					aduanaDestino = 8190;
+					//aduanaDestino = 8190;
+					aduanaDestino = 8725.92;
 					destino = "Monterrey, N.L.";
 					break;
 				case "7":
-					aduanaDestino = 15582;
+					//aduanaDestino = 15582;
+					aduanaDestino = 17451.84;
 					destino = "Guadalajara, Jal.";
 					break;
 				case "8":
-					aduanaDestino = 14469;
+					//aduanaDestino = 14469;
+					aduanaDestino = 16205.28;
 					destino = "León, Gto.";
 					break;
 				case "9":
-					aduanaDestino = 14469;
+					//aduanaDestino = 14469;
+					aduanaDestino = 16205.28;
 					destino = "Querétaro, Qro.";
 					break;
 				case "10":
-					aduanaDestino = 13356;
+					//aduanaDestino = 13356;
+					aduanaDestino = 14958.72;
 					destino = "San Juan de los Lagos, Jal.";
 					break;
 				case "11":
-					aduanaDestino = 20034;
+					//aduanaDestino = 20034;
+					aduanaDestino = 22438.08;
 					destino = "Puebla, Pue.";
 					break;
 				case "12":
-					aduanaDestino = 12243;
+					//aduanaDestino = 12243;
+					aduanaDestino = 13712.16;
 					destino = "San Luis Potosí, SLP.";
 					break;
 				case "13":
-					aduanaDestino = 23373;
+					//aduanaDestino = 23373;
+					aduanaDestino = 26177.76;
 					destino = "Durango";
 					break;
 				case "14":
@@ -281,19 +293,23 @@ $(document).on('pagebeforeshow', '#resultado-dlls-lb', function(){
 		case "Reynosa":
 				switch (selectDestino) {
 					case "1":
-						aduanaDestino = 13650;
+						//aduanaDestino = 13650;
+						aduanaDestino = 16250.28;
 						destino = "Aguascalientes, Ags.";
 						break;
 					case "2":
-						aduanaDestino = 16800;
+						//aduanaDestino = 16800;
+						aduanaDestino = 19944.96;
 						destino = "Edo. de México";
 						break;
 					case "3":
-						aduanaDestino = 17850;
+						//aduanaDestino = 17850;
+						aduanaDestino = 19944.96;
 						destino = "México, D.F.";
 						break;
 					case "6":
-						aduanaDestino = 8400;
+						//aduanaDestino = 8400;
+						aduanaDestino = 9972.96;
 						destino = "Monterrey, N.L.";
 						break;
 				}
@@ -660,7 +676,8 @@ $(document).on('pagebeforeshow', '#resultado-pesos-kg', function(){
 		case "Laredo":
 			switch (selectDestino2) {
 				case "1":
-					aduanaDestino2 = 12243;
+					//aduanaDestino2 = 12243;
+					aduanaDestino2 = 13712.16;
 					destino2 = "Aguascalientes, Ags.";
 					break;
 				case "2":
@@ -668,47 +685,58 @@ $(document).on('pagebeforeshow', '#resultado-pesos-kg', function(){
 					destino2 = "Edo. de México";
 					break;
 				case "3":
-					aduanaDestino2 = 17808;
+					//aduanaDestino2 = 17808;
+					aduanaDestino2 = 19962.77;
 					destino2 = "México, D.F.";
 					break;
 				case "4":
-					aduanaDestino2 = 8904;
+					//aduanaDestino2 = 8904;
+					aduanaDestino2 = 9972.48;
 					destino2 = "El Carmen, N.L.";
 					break;
 				case "5":
-					aduanaDestino2 = 8190;
+					//aduanaDestino2 = 8190;
+					aduanaDestino2 = 8725.92;
 					destino2 = "Guadalupe, N.L.";
 					break;
 				case "6":
-					aduanaDestino2 = 8190;
+					//aduanaDestino2 = 8190;
+					aduanaDestino2 = 8725.92;
 					destino2 = "Monterrey, N.L.";
 					break;
 				case "7":
-					aduanaDestino2 = 15582;
+					//aduanaDestino2 = 15582;
+					aduanaDestino2 = 17451.84;
 					destino2 = "Guadalajara, Jal.";
 					break;
 				case "8":
-					aduanaDestino2 = 14469;
+					//aduanaDestino2 = 14469;
+					aduanaDestino2 = 16205.28;
 					destino2 = "León, Gto.";
 					break;
 				case "9":
-					aduanaDestino2 = 14469;
+					//aduanaDestino2 = 14469;
+					aduanaDestino2 = 16205.28;
 					destino2 = "Querétaro, Qro.";
 					break;
 				case "10":
-					aduanaDestino2 = 13356;
+					//aduanaDestino2 = 13356;
+					aduanaDestino2 = 14958.72;
 					destino2 = "San Juan de los Lagos, Jal.";
 					break;
 				case "11":
-					aduanaDestino2 = 20034;
+					//aduanaDestino2 = 20034;
+					aduanaDestino2 = 22438.08;
 					destino2 = "Puebla, Pue.";
 					break;
 				case "12":
-					aduanaDestino2 = 12243;
+					//aduanaDestino2 = 12243;
+					aduanaDestino2 = 13712.16;
 					destino2 = "San Luis Potosí, SLP.";
 					break;
 				case "13":
-					aduanaDestino2 = 23373;
+					//aduanaDestino2 = 23373;
+					aduanaDestino2 = 26177.76;
 					destino2 = "Durango";
 					break;
 				case "14":
@@ -720,19 +748,23 @@ $(document).on('pagebeforeshow', '#resultado-pesos-kg', function(){
 		case "Reynosa":
 				switch (selectDestino2) {
 					case "1":
-						aduanaDestino2 = 13650;
+						//aduanaDestino2 = 13650;
+						aduanaDestino2 = 16250.28;
 						destino2 = "Aguascalientes, Ags.";
 						break;
 					case "2":
-						aduanaDestino2 = 16800;
+						//aduanaDestino2 = 16800;
+						aduanaDestino2 = 19944.96;
 						destino2 = "Edo. de México";
 						break;
 					case "3":
-						aduanaDestino2 = 17850;
+						//aduanaDestino2 = 17850;
+						aduanaDestino2 = 19944.96;
 						destino2 = "México, D.F.";
 						break;
 					case "6":
-						aduanaDestino2 = 8400;
+						//aduanaDestino2 = 8400;
+						aduanaDestino2 = 9972.48;
 						destino2 = "Monterrey, N.L.";
 						break;
 				}
